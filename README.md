@@ -10,48 +10,13 @@ A repository to practice all the exercises in freeCodeBootCamp's JavaScript Algo
 # Description
 A Rebranding of the Exeter's Entrepeneur's Website.
 
-
-# Live Demo
-A live version of this repository can be found in the following link:
-
-<br>
-
-https://exeter.netlify.app/
-
-
-
 # Technologies
 
-React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled Components | Bootstrap | Snazzy Maps | Google Maps API
+JavaScript
 
 <p align="right">[<a href="#top">back to top</a>]</p>
 
 # Contacts
-
-## João Prates
-
-email: joaoprates.az@gmail.com
-<br>
-linkedIn: https://www.linkedin.com/in/joao-prates-az/
-<br>
-github: https://github.com/JayPrates
-
-
-## Michael Dixon
-
-email: michaelmail7@gmail.com
-<br>
-linkedIn: https://www.linkedin.com/in/michael-dixon-404/
-<br>
-github: https://github.com/michaelcdixon
-
-## Nuno Gonçalves
-
-email: goncalvesnuno00@gmail.com
-<br>
-linkedIn: https://www.linkedin.com/
-<br>
-github: https://github.com/Nunofgg
 
 ## Paulo Santos
 
@@ -61,20 +26,6 @@ linkedIn: www.linkedin.com/in/paulo-j-santos
 <br>
 github: https://github.com/Jorge-Neves
 
-## Tiago Silva
-email: https://www.linkedin.com/in/tiago98s/
-<br>
-linkedIn: https://www.linkedin.com/
-<br>
-Portfolio: https://tiagosilvaportfolio.squarespace.com/
-
-## Zach Dive
-
-email: zjhd201@exeter.ac.uk
-<br>
-linkedIn: https://linkedin.com/in/zacharydive
-<br>
-github: https://github.com/zachdive
 
 <p align="right">[<a href="#top">back to top</a>]</p>
 
