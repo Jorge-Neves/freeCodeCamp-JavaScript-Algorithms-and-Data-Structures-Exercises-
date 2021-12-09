@@ -27,6 +27,8 @@ A repository to practice all the exercises in freeCodeBootCamp's JavaScript Algo
 
 ```
 
+<p align="right">[<a href="#top">back to top</a>]</p>
+
 # Technologies
 
 JavaScript
@@ -44,3 +46,4 @@ github: https://github.com/Jorge-Neves
 <br>
 freeCodeCamp: https://www.freecodecamp.org/paulojorgesantos
 
+<p align="right">[<a href="#top">back to top</a>]</p>
