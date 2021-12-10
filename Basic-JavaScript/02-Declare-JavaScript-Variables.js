@@ -10,4 +10,4 @@
 
 // Solution
 
-var = myName;
+var myName;
