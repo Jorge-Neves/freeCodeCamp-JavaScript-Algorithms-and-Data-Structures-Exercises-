@@ -1,13 +1,15 @@
 // prompt
-// Use the var keyword to create a variable called myName.
+// Assign the value 7 to the variable a
 
-
+// code provided
+// var a;
 
 // Tests
-// You should declare myName with the var keyword, ending with a semicolon
-
+// You should not change code above the specified comment.
+// a should have a value of 7.
 
 
 // Solution
 
-var = myName;
+var a;
+a = 7
