@@ -36,7 +36,6 @@ JavaScript
 <p align="right">[<a href="#top">back to top</a>]</p>
 
 
-## Contact
 
 email: paulo.jorge.ngs@gmail.com
 <br>
