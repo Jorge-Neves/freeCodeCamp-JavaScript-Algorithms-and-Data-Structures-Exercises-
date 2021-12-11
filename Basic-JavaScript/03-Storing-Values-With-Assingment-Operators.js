@@ -12,4 +12,4 @@
 // Solution
 
 var a;
-a = 7
+a = 7;
