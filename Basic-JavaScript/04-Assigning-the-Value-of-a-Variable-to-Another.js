@@ -1,8 +1,10 @@
 // prompt
 // Assign the value 7 to the variable a
 
-// code provided
+// Setup
 // var a;
+// a = 7;
+// var b;
 
 // Tests
 // You should not change code above the specified comment.
@@ -13,3 +15,5 @@
 
 var a;
 a = 7;
+var b;
+b = a;
