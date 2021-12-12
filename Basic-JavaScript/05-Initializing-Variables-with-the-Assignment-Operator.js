@@ -2,9 +2,7 @@
 // Assign the value 7 to the variable a
 
 // Setup
-// var a;
-// a = 7;
-// var b;
+// 
 
 // Tests
 // You should not change code above the specified comment.
@@ -13,7 +11,4 @@
 
 // Solution
 
-var a;
-a = 7;
-var b;
-b = a;
+var a = 9;
